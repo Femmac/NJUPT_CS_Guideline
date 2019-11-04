@@ -143,7 +143,7 @@
 
 
 
-**现国防科技大学研究生，2015级  @forgeiron **
+**现国防科技大学研究生，2015级  @forgeiron**
 
 
 
@@ -237,7 +237,7 @@
 
 在学习的过程中，总会存在自己独立弄不懂的情况。这时就需要向网络上的大牛，身边的技术大神请教。然而提问也是一种艺术，不良的提问方式将导致别人不愿回答你的问题。
 
-参阅 [**《提问的智慧》**](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
+参阅 [《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
 
 
 
